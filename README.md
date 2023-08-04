@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esti</h1>
-<h3 align="center">A passionate Full-stack Developer!</h3>
+<h3 align="center">A passionate Full-stack Developer looking for job opportunities. Please out check my projects!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esti26" alt="esti26" /></a> </p>
 
