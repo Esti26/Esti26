@@ -43,6 +43,4 @@
 ### GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esti26&theme=midnight_purple" alt="Stats" width="400" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esti26&theme=midnight_purple" alt="Languages" width="350" />
 </p>
